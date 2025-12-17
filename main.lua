@@ -1,6 +1,6 @@
-local push = require "push.push"
-local sti = require "sti.sti"
-local Entity = require "Entity"
+local push = require "modules.push.push"
+local sti = require "modules.sti.sti"
+local Entity = require "modules.Entity.Entity"
 
 local gameWidth, gameHeight = 480, 320 --fixed game resolution
 local windowWidth, windowHeight = love.window.getDesktopDimensions()
