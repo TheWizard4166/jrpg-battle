@@ -22,7 +22,7 @@ return {
       spacing = 0,
       margin = 0,
       columns = 7,
-      image = "../assets/0x72_DungeonTilesetII_v1.7/atlas_floor-16x16.png",
+      image = "../../assets/0x72_DungeonTilesetII_v1.7/atlas_floor-16x16.png",
       imagewidth = 112,
       imageheight = 112,
       objectalignment = "unspecified",
